@@ -1,0 +1,16 @@
+[package]
+name = "Smart-contracts-for-student-loans."
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x9c21357c069f4f1661a1b0c9ba5972f22d68ce0c58e884d4c3ae0b485aacbd5c"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
