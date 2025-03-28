@@ -24,3 +24,4 @@ While this version of the Student Loan System is basic, the project holds signif
 ## Contract Details
 
 - **Contract Address**: 0x4d3e6f68d0d96dd764b1b9236142498e1f15b05ceb9ca9d330257d7bc7e8885f
+![image](https://github.com/user-attachments/assets/b263f31c-e7f9-439b-8e67-937644146304)
