@@ -1,6 +1,4 @@
-Here's a sample README for the **Student Loan System** Aptos smart contract:
 
----
 
 # Student Loan System - Aptos Smart Contract
 
